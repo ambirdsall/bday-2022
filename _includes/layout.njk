@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alex Birdsall's turning 36</title>
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+    <style>
+      body {
+          margin: 0 auto;
+          max-width: 40em;
+          padding: 1em;
+      }
+     h2, h3, h4, h5, h6 {
+         margin-bottom: 0;
+     }
+     p~h5:first-of-type {
+         margin-top: 0;
+     }
+    </style>
+  </head>
+  <body>
+    {{ content | safe  }}
+  </body>
+</html>
