@@ -4,6 +4,9 @@ layout: layout.njk
 # Alex is getting older, let's hang out
 Please join us in celebrating Alex’s birthday with an afternoon of everyone’s favorite schoolyard
 blacktop basketball elimination game, [KNOCK OUT](#rules-of-knockout)!
+<div class="donk">
+  <img alt="young fella's got a jumper" src="./imgs/shoot.gif" />
+</div>
 
 ## When & Where
 Saturday March 19, 11am (<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGpybnU0MjRlcGFqZThvdjFnZHF1c2Q1ajMgZTJoYjdrMnIwbGlpbnA2amhkbm9vdTFlZWNAZw&amp;tmsrc=e2hb7k2r0liinp6jhdnoou1eec%40group.calendar.google.com">google calendar link</a>)
@@ -45,3 +48,7 @@ birthday present?
 - The next person in line shoots a foul shot, now trying to a basket before the player still on the court.
 - Once a player scores or is knocked out they should pass their ball to the next person in line as quickly as possible.
 - Players can knock each other's basketballs with their own ball. This can only be done when the ball is in the air (not in another player's hands)
+
+<div class="donk">
+  <img alt="this is not knockout, this is a fella dunking" src="./imgs/donk.gif" />
+</div>
