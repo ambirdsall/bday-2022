@@ -9,7 +9,7 @@ blacktop basketball elimination game, [KNOCK OUT](#rules-of-knockout)!
 </div>
 
 ## When & Where
-Saturday March 19, 11am (<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGpybnU0MjRlcGFqZThvdjFnZHF1c2Q1ajMgZTJoYjdrMnIwbGlpbnA2amhkbm9vdTFlZWNAZw&amp;tmsrc=e2hb7k2r0liinp6jhdnoou1eec%40group.calendar.google.com">google calendar link</a>)
+Saturday March 19, 11am <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGpybnU0MjRlcGFqZThvdjFnZHF1c2Q1ajMgZTJoYjdrMnIwbGlpbnA2amhkbm9vdTFlZWNAZw&amp;tmsrc=e2hb7k2r0liinp6jhdnoou1eec%40group.calendar.google.com"><button>add to calendar</button></a>
 
 Hanging out, eating pies for lunch and dessert, and a bit of hoops
 
