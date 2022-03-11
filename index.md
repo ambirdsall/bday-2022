@@ -34,19 +34,13 @@ birthday present?
 
 <h2 id="rules-of-knockout">Rules of knockout</h2>
 
-- Everyone forms one line behind the cone a few feet behind the foul line, facing the basket. 
-- The first two players in line get a ball. 
-- The point of the game is for the second player to make a basket before the person in front of them. 
-- The first player takes their first shot from the foul line. 
-- As soon as the first player attempts the first shot, the second player may attempt a shot from the foul line.
-- If a player misses their first shot from the foul line, they may then rebound and shoot from anywhere on the court. 
-- Both players are trying to be the first to make a basket. 
-- If the second player makes it before the first player, the first player in line was "knocked out.
-- Both players pass their balls to the front of the line and then walk to the end of the line.
-- If first player makes a basket first, the player second continues shooting.
-- The first layer passes the ball to the next person in line and goes to the end of the line.
-- The next person in line shoots a foul shot, now trying to a basket before the player still on the court.
-- Once a player scores or is knocked out they should pass their ball to the next person in line as quickly as possible.
+- Everyone forms one line behind the free throw line; the first two players in line get a ball
+- Each time you get the ball, you must take your first shot from the free throw line; if it misses, you get your own rebound and then can shoot from anywhere on the court
+- The second player cannot attempt a shot until the first player's first shot attempt is in the air
+- If the second player makes a basket before the first player, the first player is "knocked out". Both players pass their balls to the front of the line and the second player goes back to the end of the line; the first player can socialize, kibitz, or whatever, but they're done playing until the next round
+- If first player makes a basket first, they pass the ball to the next person in line and go to the end of the line. The second player continues shooting: they become the new first player and are eligible to get knocked out
+- The next person in line shoots a foul shot, now trying knock out the player still on the court
+- Once a player scores or is knocked out they should pass their ball to the next person in line as quickly as possible
 - Players can knock each other's basketballs with their own ball. This can only be done when the ball is in the air (not in another player's hands)
 
 <div class="donk">
