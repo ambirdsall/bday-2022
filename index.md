@@ -28,6 +28,9 @@ Don't worry, just scroll down to see [the rules](#rules-of-knockout).
 We sort of prepared for that! Alberta park's courts are under a roof, so rain won't spoil the fun.
 If it's really chilly, we won't be offended if your attendance is a game-time decision.
 
+##### *Should I bring a birthday present?*
+No thank you! If you really want to bring something, how about a pie everyone can share?
+
 ##### *I want to play but my basketball skills make Mr Magoo look like Shaq, is that a problem?*
 Not at all! The goal here is "casual, fun game", not "cutthroat competition", and you will not be alone.
 
