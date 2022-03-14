@@ -3,7 +3,7 @@ layout: layout.njk
 ---
 # Alex is getting older, let's hang out
 Please join us in celebrating Alex’s birthday with an afternoon of everyone’s favorite schoolyard
-blacktop basketball elimination game, [KNOCK OUT](#rules-of-knockout)!
+blacktop basketball elimination game, KNOCK OUT!
 <div class="donk">
   <img alt="young fella's got a jumper" src="./imgs/shoot.gif" />
 </div>
@@ -23,6 +23,10 @@ some drinks and savory and sweet pies in honor of Alex’s 3/14 birthday–if yo
 ## FAQ
 ##### *How do you play knockout?*
 Don't worry, just scroll down to see [the rules](#rules-of-knockout).
+
+##### *What if the weather is awful?*
+We sort of prepared for that! Alberta park's courts are under a roof, so rain won't spoil the fun.
+If it's really chilly, we won't be offended if your attendance is a game-time decision.
 
 ##### *I want to play but my basketball skills make Mr Magoo look like Shaq, is that a problem?*
 Not at all! The goal here is "casual, fun game", not "cutthroat competition", and you will not be alone.
